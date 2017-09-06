@@ -1,2 +1,6 @@
 # VR_Puzzler
-As part of the VR Nanodegree Program at Udacity,  a Puzzler project is proposed in order to guide the students in the process of design a functional VR app from scratch. Having the user experience in mind, we will conduct user testing to get feedback frequently, so that changes are easier to make in early stages of development. Also, it is important to note that we take ergonomics, aural and visual stimuli into account because our unique consideration was the game needed to be intuitive to play, the environment had to be be built to scale and VR motion sickness should be avoided
+The key game mechanics of this game is similar to Simon Says game, where orbs play a sequence that user needs to repeat.  In that we try to follow a sequence of the clicking on orbs in a specific order after watching the game system go through the random sequence. Users who successfully follow will win the game, otherwise they will need to restart.
+
+*Writeup**
+
+![Online WriteUp](https://medium.com/@yannicksergeobam/udacity-vr-my-puzzler-project-424320c56e08)
