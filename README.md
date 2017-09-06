@@ -3,4 +3,4 @@ The key game mechanics of this game is similar to Simon Says game, where orbs pl
 
 *Writeup**
 
-![Online WriteUp](https://medium.com/@yannicksergeobam/udacity-vr-my-puzzler-project-424320c56e08)
+[Online WriteUp](https://medium.com/@yannicksergeobam/udacity-vr-my-puzzler-project-424320c56e08)
